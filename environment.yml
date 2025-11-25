@@ -1,0 +1,8 @@
+name: 522-w2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - python=3.12
